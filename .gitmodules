@@ -1,0 +1,6 @@
+[submodule "Day"]
+	path = Day
+	url = https://github.com/BBrownley/100-days-css-1
+[submodule "100-days-css-1"]
+	path = 100-days-css-1
+	url = https://github.com/BBrownley/100-days-css-1
